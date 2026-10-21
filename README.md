@@ -8,7 +8,7 @@ This repository maintains a dated development log through a scheduled GitHub Act
 
 ## ⚙️ How It Works
 
-- Runs automatically every day at **12:17 AM IST**.
+- Runs automatically every day at **UTC:03.30AM & IST:09:00AM**.
 - Adds the current date to `daily-log.md`.
 - Creates a dated commit and pushes it to the `main` branch.
 - Supports manual execution through GitHub Actions.

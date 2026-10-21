@@ -3,7 +3,7 @@ name: Daily Contribution
 
 on:
   schedule:
-    - cron: "47 18 * * *"
+    - cron: "30 3 * * *"
   workflow_dispatch:
 
 permissions:
